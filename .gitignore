@@ -1,0 +1,10 @@
+# Generated release packages stay in the private build workspace.
+dist/
+*.tar.gz
+checksums.txt
+
+# Local editor and operating-system files.
+.DS_Store
+.idea/
+.vscode/
+*.swp
